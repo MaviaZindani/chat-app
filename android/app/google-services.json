@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169702996601",
+    "project_id": "cheatapp-16818",
+    "storage_bucket": "cheatapp-16818.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169702996601:android:35d280594d127d7b9c72a8",
+        "android_client_info": {
+          "package_name": "com.example.cheatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2EXnMRKPTe9FF1XuPbk8GSGiThjzALl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
